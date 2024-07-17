@@ -1,0 +1,14 @@
+{
+  "name": "image-blur-ntl",
+  "version": "1.0.0",
+  "description": "This is my project data blur image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sakchai M.",
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": ">=0.63.0"
+  }
+}
